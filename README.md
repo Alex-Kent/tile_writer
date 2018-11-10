@@ -1,20 +1,5 @@
 # tile_writer
 ## Slippy map tile generator for QGIS
-Version 0.2.2 2018-11-09  
-&copy; 2018 Alexander Hajnal All rights reserved
-
-This software is released under the terms of the Version 3 of the GNU Affero 
-General Public License.  See the `LICENSE` file for details.  Contact me via 
-email to negotiate licensing if you want to use this software under different a 
-license.
-
-| | |
-|-|-|
-|Email:   | SLIPPYsoftware@alephnull.net  
-|         | (remove the type of map to get the real address) |
-|Website: | http://alephnull.net/software/gis/tile_writer.shtml |
-|Github:  | https://github.com/Alex-Kent/tile_writer |
-
 
 # About
 
@@ -50,15 +35,6 @@ tiles. Functionally it is quite similar to the QTiles plugin.
 
 Comments are welcome, you can email SLIPPYsoftware@alephnull.net
 (remove the type of map to get the real address).
-
-
-# Version history
-| | |
-|-|-|
-| v0.2.2 | Clarified license, Documentation updates and corrections, Added Github repository (no code changes) |
-| v0.2.1 | Documentation updates, added scale presets file (no code changes) |
-| v0.2   | Now supports both TMS and Google naming conventions |
-| v0.1   | Initial release |
 
 
 # Files
@@ -184,6 +160,35 @@ These scales can be found in the `scales.xml` file and installed in QGIS using:
 | 21    | 1 : 282.12 |
 | 22    | 1 : 141.06 |
 | 23    | 1 : 70.53 |
+
+
+# Version history
+| | |
+|-|-|
+| v0.2.2 | Clarified license, Documentation updates and corrections, Added Github repository (no code changes) |
+| v0.2.1 | Documentation updates, added scale presets file (no code changes) |
+| v0.2   | Now supports both TMS and Google naming conventions |
+| v0.1   | Initial release |
+
+
+# Contact
+| | |
+|-|-|
+|Email:   | SLIPPYsoftware@alephnull.net  
+|         | (remove the type of map to get the real address) |
+|Website: | http://alephnull.net/software/gis/tile_writer.shtml |
+|Github:  | https://github.com/Alex-Kent/tile_writer |
+
+
+# Legalese
+**tile_writer**
+Version 0.2.2 2018-11-09  
+&copy; 2018 Alexander Hajnal All rights reserved
+
+This software is released under the terms of the Version 3 of the GNU Affero 
+General Public License.  See the `LICENSE` file for details.  Contact me via 
+email to negotiate licensing if you want to use this software under different a 
+license.
 
 
 # Warranty
