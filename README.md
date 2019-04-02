@@ -32,6 +32,9 @@ tiles. Functionally it is quite similar to the QTiles plugin.
 *   Doesn't always clip the rendering to the specified area of interest.
    At lower zoom levels tiles will be rendered that are not within the area 
    of interest.
+*   Might not work under QGIS 3.x.
+   This program has been tested under QGIS 2.x. Reports indicate that it does 
+   not function on the 3.x series.
 
 Comments are welcome, you can email SLIPPYsoftware@alephnull.net
 (remove the type of map to get the real address).
